@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محمود محمد زهوري - مدير المشاريع | Mahmoud Zohouri - Projects Manager</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F5F5F5;
+            color: #0D1B2A;
+        }
+        header {
+            background-color: #0D1B2A;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header h2 {
+            margin: 0;
+            font-size: 1.5em;
+            color: #D4AF37;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        section h3 {
+            color: #D4AF37;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #0D1B2A;
+            color: white;
+        }
+        a {
+            color: #D4AF37;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>محمود محمد زهوري | Mahmoud Zohouri</h1>
+        <h2>مدير منطقة / مدير مشاريع - الإمارات | Area Manager / Projects Manager - UAE</h2>
+    </header>
+
+    <section>
+        <h3>من أنا | About Me</h3>
+        <p>مهندس مدني ذو خبرة تزيد عن 20 عامًا في إدارة المشاريع والإنشاءات في الإمارات وسوريا. تمت إدارة مشاريع بنجاح بميزانيات تتجاوز المليار درهم. متقن لإدارة الموارد والتفاوض على العقود مع إلمام عالٍ بمعايير PRIMAVERA و FIDIC. ثنائي اللغة (العربية والإنجليزية).</p>
+        <p>I am a Civil Engineer with over 20 years of expertise in project and construction management across the UAE and Syria. Successfully managed large-scale infrastructure projects with budgets exceeding AED 1 billion. Skilled in resource management and contract negotiation, with a strong command of PRIMAVERA and FIDIC standards. Bilingual in Arabic and English.</p>
+    </section>
+
+    <section>
+        <h3>الخبرات والشهادات | Experience and Certifications</h3>
+        <ul>
+            <li>بكالوريوس في الهندسة المدنية - 1994 | Bachelor's Degree in Civil Engineering - 1994</li>
+            <li>دبلوم دراسات عليا في الهندسة الإنشائية - 1995 | Postgraduate Diploma in Structural Engineering - 1995</li>
+            <li>شهادة PMP - 2009 | PMP Certification - 2009</li>
+            <li>شهادة TOEFL - 1997 | TOEFL Certificate - 1997</li>
+            <li>شهادة IELTS - Good Score | IELTS Certificate - Good Score</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>للتواصل معي عبر منصات التواصل الاجتماعي | Connect with me on social media:</p>
+        <ul>
+            <li><a href="https://twitter.com/mahmoudzohouri1" target="_blank">منصة X (تويتر سابقاً) | X (formerly Twitter)</a></li>
+            <li><a href="https://www.linkedin.com/in/maoudzohouri" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.facebook.com/zohouri.mahmoud" target="_blank">Facebook</a></li>
+            <li><a href="https://www.tiktok.com/@questconsupport?_t=8qZnOgLlH2w&_r=1" target="_blank">TikTok</a></li>
+        </ul>
+        <p>أو عبر البريد الإلكتروني | Or via email: <a href="mailto:mahzoh@hotmail.com">mahzoh@hotmail.com</a></p>
+        <p>أو عبر الواتس أب | Or via WhatsApp: <a href="https://wa.me/971505409793">+971505409793</a></p>
+    </footer>
+
+</body>
+</html>
